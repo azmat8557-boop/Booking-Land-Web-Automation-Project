@@ -1,5 +1,5 @@
 # Booking-Land-Web-Automation-Project
-A small Robot‑Framework / Python project that automates the “booking” form on [https://botsdna.com/vitrualplots/]
+A  Robot‑Framework / Python project that automates the “booking” form on [https://botsdna.com/vitrualplots/]
 Given an Excel file with buyer/seller mobile numbers, plot number and
 square‑footage, the project :
 
