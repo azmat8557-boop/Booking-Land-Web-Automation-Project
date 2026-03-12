@@ -12,6 +12,7 @@ square‑footage, the project :
 7. Captures the resulting transaction number and writes it back to the Excel
    file which we downloaded.  
 8. and finally saves a screenshot for troubleshooting.
+9. The Robot test imports BookingTestFunctions.py as a library and calls its methods (e.g. Read Excel, Digits Only, Write Excel) to handle all of the spreadsheet‑related logic.
 
 The business‑logic that deals with the spreadsheet is implemented in a small
 Python library so that the Robot test remains clean and avoids all of the
